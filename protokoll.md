@@ -1,4 +1,6 @@
-Rekursive Funktionen:
+# Rekursive Funktionen:
+
+#### von Luis Böhler und Niklas Brandtner
 
 1. insertNodeIntoAVLTree(Node *node, int key):
 Fügt einen neuen Knoten mit dem gegebenen Schlüssel in den AVL-Baum ein.
